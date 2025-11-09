@@ -28,38 +28,38 @@ The website has a dark theme and a clean, modern design.
 
 ## Folder Structure
 
-blog_app/
-│
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ └── script.js
-│ └── images/
-│
-├── backend/
-│ ├── config/
-│ │ └── db.php
-│ ├── blog/
-│ │ ├── add_blog.php
-│ │ ├── get_blog.php
-│ │ ├── update_blog.php
-│ │ └── delete_blog.php
-│ ├── auth/
-│ │ ├── login.php
-│ │ ├── logout.php
-│ │ ├── register.php
-│ 
-├── index.php
-├── blog.php
-├── create_blog.php
-├── edit_blog.php
-├── footer.php
-└── login.php
-├── my_blogs.php
-├── navbar.php
-├── register.php
-└── .env
+## 🗂️ Folder Structure
+
+- blog_app/
+  - assets/
+    - css/
+      - style.css
+    - js/
+      - script.js
+    - images/
+  - backend/
+    - config/
+      - db.php
+    - blog/
+      - add_blog.php  
+      - get_blog.php  
+      - update_blog.php  
+      - delete_blog.php  
+    - auth/
+      - login.php  
+      - logout.php  
+      - register.php  
+  - index.php  
+  - blog.php  
+  - create_blog.php  
+  - edit_blog.php  
+  - footer.php  
+  - login.php  
+  - my_blogs.php  
+  - navbar.php  
+  - register.php  
+  - .env
+
 
 ----
 ## Live Demo
@@ -72,5 +72,3 @@ blog_app/
 Created by Oshadi Liyanage
 IT & Management Undergraduate – University of Moratuwa  
 
-markdown
-Copy code
